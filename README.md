@@ -28,8 +28,8 @@ To write a program to implement the linear regression using gradient descent.
 ```
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
-Developed by: Mirudhula D
-RegisterNumber: 212221230060 
+Developed by: LATHIKA SUNDER
+RegisterNumber: 212221230054 
 */
 ```
 ```
